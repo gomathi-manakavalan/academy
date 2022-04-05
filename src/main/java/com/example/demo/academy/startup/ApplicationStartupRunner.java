@@ -22,7 +22,7 @@ public class ApplicationStartupRunner implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
         final String studentUserId = "testStudentUser@programmerworld.onmicrosoft.com";
-        final String coachUsername = "testuser@gomathinayagammanakavalanou.onmicrosoft.com";
+        final String coachUsername = "coach@eaccessreplacement.onmicrosoft.com";
         createStudent(studentUserId);
         createCoach(coachUsername);
 
